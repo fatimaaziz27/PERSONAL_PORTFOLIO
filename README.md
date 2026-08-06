@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio
+# Personal Portfolio
 
 A responsive personal portfolio website built using **HTML** and **CSS** to showcase my skills, projects, services, and programming journey.
 
@@ -6,30 +6,30 @@ This portfolio highlights my experience, featured projects, technical skills, an
 
 ---
 
-## 🚀 Features
+## Features
 
-- 👋 Hero section with introduction
-- 👩 About Me section
-- 📊 Statistics section
-- 💻 Technical skills showcase
-- 🛠 Services section
-- 📂 Featured projects
-- ❓ Frequently Asked Questions
-- 📞 Contact section
-- 📱 Responsive layout
-- 🎨 Modern and clean user interface
-- 🧭 Fixed navigation bar
+- Hero section with introduction
+- About Me section
+- Statistics section
+- Technical skills showcase
+- Services section
+- Featured projects
+- Frequently Asked Questions
+- Contact section
+- Responsive layout
+- Modern and clean user interface
+- Fixed navigation bar
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PERSONAL_PORTFOLIO/
@@ -41,7 +41,7 @@ PERSONAL_PORTFOLIO/
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project was created to:
 
@@ -53,7 +53,7 @@ This project was created to:
 
 ---
 
-## 📌 Sections Included
+## Sections Included
 
 - Home
 - About Me
@@ -67,7 +67,7 @@ This project was created to:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add JavaScript animations
 - Dark/Light mode toggle
@@ -77,12 +77,3 @@ This project was created to:
 - Responsive improvements
 - Add project screenshots
 - Deploy using GitHub Pages
-
----
-
-## 👩‍💻 Author
-
-**Fatima Aziz**
-
-GitHub:  
-https://github.com/fatimaaziz27
